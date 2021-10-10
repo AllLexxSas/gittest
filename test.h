@@ -3,4 +3,5 @@
 
 
 void add(int);
+void end(int);
 #endif // TEST_H
