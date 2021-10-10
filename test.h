@@ -4,4 +4,5 @@
 
 void add(int);
 void end(int);
+void start(int);
 #endif // TEST_H

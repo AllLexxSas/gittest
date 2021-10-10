@@ -19,6 +19,7 @@ public:
     void puch (int a)
     {
         array[interator++] =a;//все исправил и сделал как надо
+        //а чего надо исправить?
     }
     void print(){
         for(int i = 0 ;  i < interator; i++ )
